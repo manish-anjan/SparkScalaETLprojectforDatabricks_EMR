@@ -1,0 +1,12 @@
+customer_id,customer_name,email,phone,address,city,state,zip_code,country,registration_date,is_active,amount
+1,John Doe,john.doe@example.com,555-0001,123 Main Street,Boston,MA,02101,USA,2024-01-15,true,1500.00
+2,Jane Smith,jane.smith@example.com,555-0002,456 Oak Avenue,New York,NY,10001,USA,2024-01-16,true,2500.50
+3,Robert Johnson,robert.johnson@example.com,555-0003,789 Pine Road,Los Angeles,CA,90001,USA,2024-01-17,false,500.00
+4,Mary Williams,mary.williams@example.com,555-0004,321 Elm Street,Chicago,IL,60601,USA,2024-01-18,true,3000.00
+5,Charles Brown,charles.brown@example.com,555-0005,654 Birch Lane,Houston,TX,77001,USA,2024-01-19,true,1800.75
+6,Patricia Davis,patricia.davis@example.com,555-0006,987 Maple Drive,Phoenix,AZ,85001,USA,2024-01-20,true,2200.00
+7,Christopher Miller,christopher.miller@example.com,555-0007,258 Cedar Court,Philadelphia,PA,19101,USA,2024-01-21,false,900.00
+8,Jennifer Wilson,jennifer.wilson@example.com,555-0008,369 Spruce Square,San Antonio,TX,78201,USA,2024-01-22,true,1200.50
+9,Daniel Moore,daniel.moore@example.com,555-0009,741 Fir Court,San Diego,CA,92101,USA,2024-01-23,true,2800.00
+10,Linda Taylor,linda.taylor@example.com,555-0010,852 Ash Alley,Dallas,TX,75201,USA,2024-01-24,true,1600.25
+
